@@ -3,7 +3,7 @@ public class App {
         int x = 5;
         while (x > 1) {
             x--;
-            if (x < 3) {
+            if (x < 2) {
                 System.out.println("small x");
             }
         }
