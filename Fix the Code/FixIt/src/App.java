@@ -1,10 +1,11 @@
 public class App {
     public static void main(String[] args) {
-        int x = 1;
-        while (x < 5) {
+        int x = 5;
+        while (x > 1) {
+            x--;
             if (x < 3) {
-                System.out.println("Big x");
-            } x++;
+                System.out.println("small x");
+            }
         }
     }
 }
