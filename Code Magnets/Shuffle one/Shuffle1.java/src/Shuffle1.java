@@ -3,7 +3,7 @@ public class Shuffle1 {
         int x = 3;
         while (x > 0) {
             if (x > 2) {
-                System.out.print("\na");
+                System.out.print("a");
             }
             x = x - 1;
             System.out.print("-");
