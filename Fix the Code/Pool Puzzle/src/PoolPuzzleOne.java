@@ -1,10 +1,13 @@
 public class PoolPuzzleOne {
-    public static void main(String[] args) throws Exception {
-    //     while (_______) {
-    //         ____________
-    //         if(x < 1){
-    //             _________
-    //         } _________
+    public static void main(String[] args) {
+            int x = 0; //forget to add this a while ago
+            while (x < 4) {
+                System.out.print(" ");
+                System.out.print("a");
+                if(x < 1){
+                    System.out.print("n");
+
+             } x = x + 1;
     //         if(_____){
 
     //         }
@@ -16,8 +19,8 @@ public class PoolPuzzleOne {
     //         }
     //         System.out.println("");
     //         _______________
-    //     }
-    // }
+         }
+    }
 }
 
 //Note: Each snippet in the pool can only be used once!
@@ -25,7 +28,6 @@ public class PoolPuzzleOne {
 /*
 System.out.print(“ ”);
 System.out.print(“a“);
-System.out.print(“n“);
 System.out.print(“an“);
  
 x>0
