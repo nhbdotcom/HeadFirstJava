@@ -45,3 +45,12 @@ System.out.print(“ oyster “);
 System.out.print(“annoys”);
 System.out.print(“noise”);
 */
+
+/*
+ %java PoolPuzzleOne
+a noise
+annoys
+an oyster
+
+//output
+ */
